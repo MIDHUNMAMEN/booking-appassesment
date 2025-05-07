@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/basic-activity-booking-app.git
+git clone https://github.com/MIDHUNMAMEN/booking-appassesment.git
 cd basic-activity-booking-app
 npm install
 cp .env.example .env
